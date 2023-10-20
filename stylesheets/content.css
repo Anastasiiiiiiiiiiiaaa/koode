@@ -1,0 +1,55 @@
+ 
+/* @font-face {
+   font-family: "FantasqueSansMono-BoldItalic";
+   src: url("../fonts/FantasqueSansMono-BoldItalic.ttf") format("trutype");
+   font-style: italic;
+   font-weight: bold;
+}
+@font-face {
+   font-family: "FantasqueSansMono-Italic";
+   src: url("../fonts/FantasqueSansMono-Italic.ttf") format("trutype");
+   font-style: italic;
+   font-weight: normal;
+}
+@font-face {
+   font-family: "FantasqueSansMono-Regular";
+   src: url("../fonts/FantasqueSansMono-Regular.ttf") format("trutype");
+   font-style: normal;
+   font-weight: normal;
+}
+@font-face {
+   font-family: "FantasqueSansMono-Bold";
+   src: url("../fonts/FantasqueSansMono-Bold.ttf") format("trutype");
+   font-style: bold;
+   font-weight: bold;
+}
+
+/* p{
+   font-family: "FantasqueSansMono-Regular";
+   font-style: normal;
+   font-weight: normal;
+} */
+/* p{
+   font-family: "Fantasque Sans Mono";
+   font-style: normal;
+   font-weight: normal;
+}
+
+h1{
+   font-family: "FantasqueSansMono-Bold";
+   font-size: 50px;
+   font-style: bold;
+   font-weight: bold;
+} */
+p {
+   font-family: "Fantasque Sans Mono Bold";
+   /* color: azure; */
+}
+h1{font-family: "Fantasque Sans Mono Regular";}
+/* body, html
+{
+  background-color: #00003E;
+  width: 1280px;
+  margin: 0;
+  display: block;
+} */
